@@ -4,8 +4,8 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-//Aluno: Eduardo Miranda CB3026604
-
+//Aluno: Eduardo Miranda - CB3026604
+//Aluno: Cauã Barros - CB3025179 
 public class Calculator extends JFrame implements ActionListener {
 
         private JTextField textField;

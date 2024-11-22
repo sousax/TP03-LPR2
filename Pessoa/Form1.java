@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //Aluno: Eduardo Miranda CB3026604
+//Aluno: Cauã Barros - CB3025179 
 
 public class Form1 extends JFrame implements ActionListener {
     private JTextField campoNome, campoSexo, campoIdade;
